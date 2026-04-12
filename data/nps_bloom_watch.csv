@@ -1,0 +1,33 @@
+# NPS Bloom Watch — Yoshino Cherry Peak Bloom Dates, Tidal Basin, Washington D.C.
+# Source: National Park Service, "Bloom Watch"
+# URL: https://www.nps.gov/subjects/cherryblossom/bloom-watch.htm
+# Retrieved: 2026-04-11
+# Definition: Peak bloom = day when 70% of Yoshino Cherry blossoms are open (NPS standard)
+# Note: NPS is one of the two original sources cited in the EPA Climate Change Indicators
+#       file (cherry-blossoms_fig-1.csv). High agreement between sources in overlap years
+#       is expected; only 2008 differs (EPA DOY=89, NPS DOY=86; merged as mean=87.5).
+# Verification: Visit source URL and compare dates year by year.
+Year,Date
+2004,March 31
+2005,April 9
+2006,March 30
+2007,April 1
+2008,March 26
+2009,April 1
+2010,March 31
+2011,March 29
+2012,March 20
+2013,April 9
+2014,April 10
+2015,April 10
+2016,March 25
+2017,March 25
+2018,April 5
+2019,April 1
+2020,March 20
+2021,March 28
+2022,March 21
+2023,March 23
+2024,March 17
+2025,March 28
+2026,March 26
